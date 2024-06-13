@@ -1,0 +1,28 @@
+1. Download any code Editor(VS code recommended
+
+2. Open the code editor
+
+3. Extract the file downloaded from whatsapp to any place you want.
+
+4. Then go to that directory and inside src file right click and select open with vs code or any code editor u have.
+
+4. After that inside terminal(bottom ull get or it should be available in the top bar) install npm packages, write the below command
+npm install
+
+5. it should then install some packages, then you'll also get the node modules folder when its done.
+
+6. After this you can run the program by using the below command
+npm start
+after sometime it'll open automatically in ur browser and you should be able to view the site.
+
+7. Other packages are also there I dont remember all of them just send me the screenshots of the error. Ill tell you the packages ive missed.
+
+8. Some other packages that i currently remember are below, u need to install them aswell(run them 1 by 1)
+
+npm i swiper
+npm i bootstrap
+npm i styled-components
+npm i react-bootstrap bootstrap
+
+Note: After installing the packages to get the changes from them youll need to rerun the code shortcut is (ctrl + c 2times) inside the terminal. 
+Then run the npm start command again in the terminal. 
